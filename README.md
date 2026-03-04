@@ -20,11 +20,3 @@ Dưới đây là một số tựa game mình đã và đang phát triển:
 *Tựa game rhythm runner mang đậm phong cách Neon.*
 * **Nổi bật:** Bối cảnh lấy cảm hứng từ đường phố Việt Nam với nhân vật chính là Linh. 
 * **Kỹ thuật:** Lập trình cơ chế nhịp điệu (rhythm mechanics), hệ thống thanh bar thay đổi theo beat nhạc, và UI neon rực rỡ được tối ưu hóa hiển thị.
-
-## 📈 Thống kê GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-## 📫 Liên hệ với mình
-* **Email:** [Địa chỉ Email của cậu]
-* **LinkedIn:** [Link LinkedIn]
-* **Portfolio/Itch.io:** [Link Itch.io nếu có]
