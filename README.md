@@ -8,7 +8,7 @@ Quản lí mã nguồn: Github, Git
 ## 🎮 Các dự án tiêu biểu
 
 Dưới đây là một số tựa game mình đã và đang phát triển:
--->
+<!--
 ### 🏎️ Hyperdrive Racing (Đang phát triển)
 *Một tựa game đua xe tốc độ cao dành riêng cho PC.*
 * **Nổi bật:** Hệ thống nâng cấp xe chuyên sâu, thu thập blueprint để mở khóa các dòng xe xịn (như Porsche Taycan, BMW GTE E46).
@@ -18,3 +18,7 @@ Dưới đây là một số tựa game mình đã và đang phát triển:
 *Tựa game rhythm runner mang đậm phong cách Neon.*
 * **Nổi bật:** Bối cảnh lấy cảm hứng từ đường phố Việt Nam với nhân vật chính là Linh. 
 * **Kỹ thuật:** Lập trình cơ chế nhịp điệu (rhythm mechanics), hệ thống thanh bar thay đổi theo beat nhạc, và UI neon rực rỡ được tối ưu hóa hiển thị.
+### RelicSeeker
+* Tựa game 3D giải đố (node base)
+* **Nổi bật**: Lối chơi độc lạ, người chơi phải tìm cách giải đố để qua được ải tiếp theo.
+* **Kỹ thuật: ** Kết hợp cơ chế node base + leo trèo để né chướng ngại vật, cơ chế hấp dẫn và thú vị. 
