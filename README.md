@@ -16,7 +16,7 @@ Mình là sinh viên chuyên ngành Phát triển Game (Game Development) với 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 **Kiến thức chuyên môn:**
-* Lập trình Hướng đối tượng (OOP)
+* UI/UX
 * Thiết kế Hệ thống Gameplay (Gameplay System Design)
 
 ---
@@ -33,7 +33,7 @@ Mình là sinh viên chuyên ngành Phát triển Game (Game Development) với 
 
 ## 🚀 Các Dự án Tiêu biểu
 
-### 🎵 Street Beat | *2D Rhythm Runner*
+### 🎵 Street Beat | *3D Rhythm Runner*
 Một tựa game chạy vượt chướng ngại vật theo nhịp điệu mang đậm phong cách Neon, lấy bối cảnh văn hóa đường phố Việt Nam với nhân vật chính là Linh.
 
 **🔑 Đóng góp & Kỹ thuật cốt lõi:**
