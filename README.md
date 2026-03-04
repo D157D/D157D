@@ -3,8 +3,8 @@
 Mình hiện đang là sinh viên chuyên ngành Game Development. Mình có niềm đam mê lớn với việc tạo ra game, tinh chỉnh cảm giác điều khiển và thiết kế giao diện UI/UX tối ưu cho người chơi. Mình thích tự tay hiện thực hóa các ý tưởng game từ giấy ra màn hình.
 
 ## 🛠️ Kỹ năng & Công cụ
-GameEngine: Unity(C#)
-Quản lí mã nguồn: Github, Git
+GameEngine: Unity(C#).
+Quản lí mã nguồn: Github, Git.
 ## 🎮 Các dự án tiêu biểu
 
 Dưới đây là một số tựa game mình đã và đang phát triển:
@@ -21,4 +21,4 @@ Dưới đây là một số tựa game mình đã và đang phát triển:
 ### RelicSeeker
 * Tựa game 3D giải đố (node base)
 * **Nổi bật**: Lối chơi độc lạ, người chơi phải tìm cách giải đố để qua được ải tiếp theo.
-* **Kỹ thuật: ** Kết hợp cơ chế node base + leo trèo để né chướng ngại vật, cơ chế hấp dẫn và thú vị. 
+* **Kỹ thuật:** Kết hợp cơ chế node base + leo trèo để né chướng ngại vật, cơ chế hấp dẫn và thú vị. 
