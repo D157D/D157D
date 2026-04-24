@@ -34,7 +34,7 @@ The lobby allows players to select characters, chat, and manage matchmaking befo
 * Unity (Client)
 * C#
 * ASP.NET Core Web API (Lobby, authentication, matchmaking)
-* WebSocket (real-time gameplay synchronization)
+* PhotonFusion (real-time gameplay synchronization)
 
 ## Project Structure
 
