@@ -48,7 +48,7 @@ Prototype / Demo with core systems implemented (lobby, basic gameplay, multiplay
 
 ## Team
 
-Developed by a team of 3 members
+Developed by a team of 2 members
 
 
 # StreetBeat 🎧🔥
