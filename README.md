@@ -133,3 +133,82 @@ UI được thiết kế đơn giản, rõ ràng, tối ưu cho mobile. -->
 ## Team
 
 Developed by a team of 3 members
+
+
+# Relic Seeker 🧭🏛️
+
+![Menu Preview](/Relic%20Seeker.png)
+
+**Relic Seeker** là một tựa game giải đố phiêu lưu (puzzle-adventure) trên di động. Người chơi sẽ vào vai một nhà thám hiểm vượt qua những hầm ngục cổ xưa, giải mã các cơ quan phức tạp và né tránh quái vật để tìm kiếm cổ vật quý giá.
+
+## Overview
+
+Game tập trung vào lối chơi **logic grid-based** (di chuyển theo ô). Mỗi bước đi đều cần sự tính toán để kích hoạt đúng cần gạt, mở đường và tránh khỏi tầm mắt của những sinh vật canh giữ hầm ngục.
+
+## Features
+
+* **Giải đố theo ô (Grid-based):** Di chuyển chiến thuật trên bản đồ được chia ô.
+* **Cơ chế tương tác:** Hệ thống đòn bẩy (Levers), hố sụt (Pits) và cổng dịch chuyển (Portals).
+* **Kẻ thù thông minh:** Quái vật (Nhện khổng lồ) có quy luật di chuyển riêng, thách thức khả năng quan sát.
+* **Hệ thống thu thập:** Thu thập đá quý (Gems) để tối ưu hóa điểm số qua mỗi màn chơi.
+* **Đồ họa Low-poly:** Phong cách 3D tối giản, hiệu năng cao, phù hợp với nhiều dòng máy mobile.
+* **Cấp độ đa dạng:** Hàng chục màn chơi với độ khó tăng dần và các loại địa hình mới.
+
+## Gameplay
+
+![Gameplay](/lv4.png)
+
+Người chơi điều khiển nhân vật chính tìm đường đến cổng thoát hiểm rực rỡ cuối mỗi hầm ngục.
+
+**Nhiệm vụ chính:**
+* **Kích hoạt cơ quan:** Tìm và gạt các cần điều khiển để lấp hố hoặc mở lối đi bí mật.
+* **Tránh cạm bẫy:** Quan sát nhịp di chuyển của nhện để đi qua an toàn.
+* **Thu thập Ruby:** Gom đủ số lượng đá quý đỏ để đạt hạng cao nhất.
+
+**Yếu tố thử thách:**
+* Càng lên level cao (Level 17, 19...), số lượng kẻ thù và cơ quan xuất hiện đồng thời, đòi hỏi trình tự xử lý chính xác.
+
+## Maps & Visual Style
+
+![Maps](/lv17.png)
+![Maps](/lv19.png)
+Relic Seeker sử dụng tông màu ấm và phong cách cổ điển:
+* **Ancient Tomb:** Bối cảnh đá tảng, bụi bặm và huyền bí.
+* **Mystic Ruins:** Sự kết hợp giữa tàn tích cổ và thảm thực vật xanh mướt.
+* **Atmospheric Lighting:** Hiệu ứng ánh sáng từ cổng dịch chuyển và các vật phẩm phát sáng tạo điểm nhấn.
+
+## UI & Menu
+
+![UI](/Menu.png)
+
+Giao diện tối giản và tập trung vào trải nghiệm người dùng:
+* **Main Menu:** Logo cách điệu, nút Play trung tâm với icon viên kim cương.
+* **Ranking:** Theo dõi thứ hạng người chơi.
+* **Settings:** Tùy chỉnh âm thanh và cấu hình.
+* **In-game UI:** Hiển thị số màn chơi và các nút chức năng hỗ trợ (Settings, Reset).
+
+## Tech Stack
+
+* **Unity Engine:** Nền tảng phát triển chính.
+* **C#:** Xử lý logic gameplay và hệ thống Event.
+* **Mobile Platform:** Tối ưu hóa cho Android (hỗ trợ các tỉ lệ màn hình dài/notch).
+* **Object Pooling:** Tối ưu hóa hiệu năng khi load các prefab địa hình và vật phẩm.
+
+## Project Structure
+
+* **Core**: Scripts quản lý game (GameManager, LevelManager).
+* **Player**: Controller điều khiển nhân vật và hệ thống Input.
+* **Mechanics**: Logic cho cần gạt, cổng dịch chuyển, quái vật.
+* **Environment**: Model 3D, Prefabs địa hình và hiệu ứng ánh sáng.
+* **UI**: Scripts quản lý menu và các lớp giao diện.
+
+## Status
+
+**Prototype Stage:**
+- Hoàn thiện core di chuyển và tương tác cơ bản.
+- Thiết kế 25 levels demo.
+- Tích hợp hệ thống Save/Load.
+
+## Team
+
+Developed by a team of 3 members.
