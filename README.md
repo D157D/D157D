@@ -49,7 +49,3 @@ Prototype / Demo with core systems implemented (lobby, basic gameplay, multiplay
 ## Team
 
 Developed by a team of 3 members
-
-## Notes
-
-Replace all `YOUR_IMAGE_LINK_HERE` with your actual image URLs or local paths (e.g. `./images/gameplay.png`).
