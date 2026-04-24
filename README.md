@@ -125,7 +125,7 @@ UI được thiết kế đơn giản, rõ ràng, tối ưu cho mobile. -->
 ## Project Structure
 
 * **Gameplay**: Player controller, obstacle system, score
-* **UI**: Menu, HUD, pause system
+* **UI**: Menu, HUD, BXH, Pause, Setting
 * **Environment**: Map, lighting, assets
 * **Effects**: Neon glow, particle, feedback
 * **Core**: GameManager, input handling
