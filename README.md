@@ -1,6 +1,6 @@
 # Crazy Lobby (3/2026 - 4/2026)
 
-![Lobby Preview](/CrazyLobby.png)
+![Lobby Preview](/Image/CrazyLobby.png)
 
 Crazy Lobby is a multiplayer party game inspired by chaotic obstacle-course gameplay where players compete to survive and reach the finish line.
 
@@ -19,13 +19,13 @@ Crazy Lobby focuses on fast-paced, physics-based gameplay combined with a simple
 
 ## Gameplay
 
-![Gameplay](/GamePlay.png)
+![Gameplay](/Image/GamePlay.png)
 
 Players spawn into dynamic maps filled with traps, moving platforms, and hazards. The objective is to survive and reach the goal before other players.
 
 ## Lobby & UI
 
-![UI](Menu-CrazyLobby.png)
+![UI](/ImageMenu-CrazyLobby.png)
 
 The lobby allows players to select characters, chat, and manage matchmaking before entering a game session.
 
@@ -53,7 +53,7 @@ Developed by a team of 2 members
 
 # StreetBeat 🎧🔥 (12/2025 - 2/2026)
 
-![Menu Preview](/StreetBeat.png)
+![Menu Preview](/Image/StreetBeat.png)
 
 StreetBeat là một game **endless runner kết hợp nhịp điệu (rhythm)**, nơi người chơi điều khiển nhân vật chạy qua các con phố đầy màu sắc và né tránh chướng ngại vật theo nhịp beat của âm nhạc.
 
@@ -73,8 +73,10 @@ StreetBeat tập trung vào gameplay **nhanh, phản xạ cao** kết hợp vớ
 
 ## Gameplay
 
-![Gameplay](/M1.png)
+![Gameplay](/Image/M1.png)
+[![Tên video](/Image/M1.png)](https://youtu.be/6gUtNeJ3l5g)
 
+<!-- https://youtu.be/6gUtNeJ3l5g -->
 Người chơi điều khiển nhân vật chạy liên tục về phía trước.  
 
 **Nhiệm vụ chính:**
@@ -89,7 +91,7 @@ Người chơi điều khiển nhân vật chạy liên tục về phía trướ
 
 ## Maps & Visual Style
 
-![Maps](/M2.png)
+![Maps](/Image/M2.png)
 
 StreetBeat có nhiều môi trường khác nhau:
 
@@ -137,7 +139,7 @@ Developed by a team of 3 members
 
 # Relic Seeker 🧭🏛️ (9/2025 - 11/2025)
 
-![Menu Preview](/Relic%20Seeker.png)
+![Menu Preview](/Image/Relic%20Seeker.png)
 
 **Relic Seeker** là một tựa game giải đố phiêu lưu (puzzle-adventure) trên di động. Người chơi sẽ vào vai một nhà thám hiểm vượt qua những hầm ngục cổ xưa, giải mã các cơ quan phức tạp và né tránh quái vật để tìm kiếm cổ vật quý giá.
 
@@ -156,7 +158,7 @@ Game tập trung vào lối chơi **logic grid-based** (di chuyển theo ô). M�
 
 ## Gameplay
 
-![Gameplay](/lv4.png)
+![Gameplay](/Image/lv4.png)
 
 Người chơi điều khiển nhân vật chính tìm đường đến cổng thoát hiểm rực rỡ cuối mỗi hầm ngục.
 
@@ -170,8 +172,8 @@ Người chơi điều khiển nhân vật chính tìm đường đến cổng t
 
 ## Maps & Visual Style
 
-![Maps](/lv17.png)
-![Maps](/lv19.png)
+![Maps](/Image/lv17.png)
+![Maps](/Image/lv19.png)
 Relic Seeker sử dụng tông màu ấm và phong cách cổ điển:
 * **Ancient Tomb:** Bối cảnh đá tảng, bụi bặm và huyền bí.
 * **Mystic Ruins:** Sự kết hợp giữa tàn tích cổ và thảm thực vật xanh mướt.
@@ -179,7 +181,7 @@ Relic Seeker sử dụng tông màu ấm và phong cách cổ điển:
 
 ## UI & Menu
 
-![UI](/Menu.png)
+![UI](/Image/Menu.png)
 
 Giao diện tối giản và tập trung vào trải nghiệm người dùng:
 * **Main Menu:** Logo cách điệu, nút Play trung tâm với icon viên kim cương.
