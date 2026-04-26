@@ -73,14 +73,14 @@ StreetBeat tập trung vào gameplay **nhanh, phản xạ cao** kết hợp vớ
 
 ## Gameplay
 
-![Gameplay](/Image/M1.png)
+<!-- ![Gameplay](/Image/M1.png) -->
 [![Tên video](/Image/M1.png)](https://youtu.be/6gUtNeJ3l5g)
 
 <!-- https://youtu.be/6gUtNeJ3l5g -->
 Người chơi điều khiển nhân vật chạy liên tục về phía trước.  
 
 **Nhiệm vụ chính:**
-* Né chướng ngại vật (trái / phải / nhảy / trượt)
+* Né chướng ngại vật (trái / phải)
 * Thu thập điểm và duy trì combo
 * Phản xạ nhanh theo tốc độ game tăng dần
 
