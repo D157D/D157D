@@ -25,7 +25,7 @@ Players spawn into dynamic maps filled with traps, moving platforms, and hazards
 
 ## Lobby & UI
 
-![UI](/ImageMenu-CrazyLobby.png)
+![UI](/Image/Menu-CrazyLobby.png)
 
 The lobby allows players to select characters, chat, and manage matchmaking before entering a game session.
 
