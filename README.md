@@ -1,12 +1,12 @@
 # Crazy Lobby (3/2026 - 4/2026)
 
-![Lobby Preview](/Image/CrazyLobby.png)
+[![Lobby Preview](/Image/CrazyLobby.png)](https://caodang.fpt.edu.vn/tin-tuc-poly/crazy-lobby-khi-tinh-than-sasuke-viet-nam-bung-no-trong-mot-tua-game-do-chinh-sinh-vien-fpt-polytechnic-tp-hcm-tao-nen.html)
 
-Crazy Lobby is a multiplayer party game inspired by chaotic obstacle-course gameplay where players compete to survive and reach the finish line.
+
 
 ## Overview
 
-Crazy Lobby focuses on fast-paced, physics-based gameplay combined with a simple but functional lobby system. Players can quickly join matches, create rooms, and interact before entering the game.
+[“Crazy Lobby” – Khi tinh thần Sasuke Việt Nam bùng nổ trong một tựa game do chính sinh viên FPT Polytechnic TP HCM tạo nên](https://caodang.fpt.edu.vn/tin-tuc-poly/crazy-lobby-khi-tinh-than-sasuke-viet-nam-bung-no-trong-mot-tua-game-do-chinh-sinh-vien-fpt-polytechnic-tp-hcm-tao-nen.html)
 
 ## Features
 
@@ -74,7 +74,7 @@ StreetBeat tập trung vào gameplay **nhanh, phản xạ cao** kết hợp vớ
 ## Gameplay
 
 <!-- ![Gameplay](/Image/M1.png) -->
-[![Tên video](/Image/M1.png)](https://youtu.be/6gUtNeJ3l5g)
+[![video](/Image/M1.png)](https://youtu.be/6gUtNeJ3l5g)
 
 <!-- https://youtu.be/6gUtNeJ3l5g -->
 Người chơi điều khiển nhân vật chạy liên tục về phía trước.  
